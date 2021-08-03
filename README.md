@@ -11,5 +11,5 @@
 # LockCLI from JAR
 
 - Have JDK 8+ Installed
-- Run java `-jar LockCLI.jar`
+- Run `java -jar LockCLI.jar`
 - Make sure to be in the same directory as the JAR to run it
